@@ -34,7 +34,7 @@ C# Beginner to Expert Series
     ├── Lesson 2
     ├── Lesson 3
 
-
+```
 So on...
 
 
