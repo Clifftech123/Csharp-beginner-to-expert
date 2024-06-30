@@ -1,0 +1,15 @@
+E:\Youtube\c#_beginner_expert\Repo\Csharp-beginner-to-expert\lesson6\bin\Debug\net8.0\lesson6.exe
+E:\Youtube\c#_beginner_expert\Repo\Csharp-beginner-to-expert\lesson6\bin\Debug\net8.0\lesson6.deps.json
+E:\Youtube\c#_beginner_expert\Repo\Csharp-beginner-to-expert\lesson6\bin\Debug\net8.0\lesson6.runtimeconfig.json
+E:\Youtube\c#_beginner_expert\Repo\Csharp-beginner-to-expert\lesson6\bin\Debug\net8.0\lesson6.dll
+E:\Youtube\c#_beginner_expert\Repo\Csharp-beginner-to-expert\lesson6\bin\Debug\net8.0\lesson6.pdb
+E:\Youtube\c#_beginner_expert\Repo\Csharp-beginner-to-expert\lesson6\obj\Debug\net8.0\lesson6.GeneratedMSBuildEditorConfig.editorconfig
+E:\Youtube\c#_beginner_expert\Repo\Csharp-beginner-to-expert\lesson6\obj\Debug\net8.0\lesson6.AssemblyInfoInputs.cache
+E:\Youtube\c#_beginner_expert\Repo\Csharp-beginner-to-expert\lesson6\obj\Debug\net8.0\lesson6.AssemblyInfo.cs
+E:\Youtube\c#_beginner_expert\Repo\Csharp-beginner-to-expert\lesson6\obj\Debug\net8.0\lesson6.csproj.CoreCompileInputs.cache
+E:\Youtube\c#_beginner_expert\Repo\Csharp-beginner-to-expert\lesson6\obj\Debug\net8.0\lesson6.sourcelink.json
+E:\Youtube\c#_beginner_expert\Repo\Csharp-beginner-to-expert\lesson6\obj\Debug\net8.0\lesson6.dll
+E:\Youtube\c#_beginner_expert\Repo\Csharp-beginner-to-expert\lesson6\obj\Debug\net8.0\refint\lesson6.dll
+E:\Youtube\c#_beginner_expert\Repo\Csharp-beginner-to-expert\lesson6\obj\Debug\net8.0\lesson6.pdb
+E:\Youtube\c#_beginner_expert\Repo\Csharp-beginner-to-expert\lesson6\obj\Debug\net8.0\lesson6.genruntimeconfig.cache
+E:\Youtube\c#_beginner_expert\Repo\Csharp-beginner-to-expert\lesson6\obj\Debug\net8.0\ref\lesson6.dll
