@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Youtube\\c#_beginner_expert\\Repo\\Csharp-beginner-to-expert\\Module-2\\lesson2\\lesson2.csproj",
-      "projectName": "lesson2",
-      "projectPath": "E:\\Youtube\\c#_beginner_expert\\Repo\\Csharp-beginner-to-expert\\Module-2\\lesson2\\lesson2.csproj",
+      "projectUniqueName": "E:\\Youtube\\c#_beginner_expert\\Csharp-beginner-to-expert\\lesson5\\lesson5.csproj",
+      "projectName": "lesson5",
+      "projectPath": "E:\\Youtube\\c#_beginner_expert\\Csharp-beginner-to-expert\\lesson5\\lesson5.csproj",
       "packagesPath": "C:\\Users\\opoku\\.nuget\\packages\\",
-      "outputPath": "E:\\Youtube\\c#_beginner_expert\\Repo\\Csharp-beginner-to-expert\\Module-2\\lesson2\\obj\\",
+      "outputPath": "E:\\Youtube\\c#_beginner_expert\\Csharp-beginner-to-expert\\lesson5\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -46,6 +46,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -67,7 +72,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.301/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

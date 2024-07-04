@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Youtube\\c#_beginner_expert\\Repo\\Csharp-beginner-to-expert\\Module-2\\lesson1\\lesson1.csproj": {}
+    "E:\\Youtube\\c#_beginner_expert\\Csharp-beginner-to-expert\\lesson4\\lesson1.csproj": {}
   },
   "projects": {
-    "E:\\Youtube\\c#_beginner_expert\\Repo\\Csharp-beginner-to-expert\\Module-2\\lesson1\\lesson1.csproj": {
+    "E:\\Youtube\\c#_beginner_expert\\Csharp-beginner-to-expert\\lesson4\\lesson1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Youtube\\c#_beginner_expert\\Repo\\Csharp-beginner-to-expert\\Module-2\\lesson1\\lesson1.csproj",
+        "projectUniqueName": "E:\\Youtube\\c#_beginner_expert\\Csharp-beginner-to-expert\\lesson4\\lesson1.csproj",
         "projectName": "lesson1",
-        "projectPath": "E:\\Youtube\\c#_beginner_expert\\Repo\\Csharp-beginner-to-expert\\Module-2\\lesson1\\lesson1.csproj",
+        "projectPath": "E:\\Youtube\\c#_beginner_expert\\Csharp-beginner-to-expert\\lesson4\\lesson1.csproj",
         "packagesPath": "C:\\Users\\opoku\\.nuget\\packages\\",
-        "outputPath": "E:\\Youtube\\c#_beginner_expert\\Repo\\Csharp-beginner-to-expert\\Module-2\\lesson1\\obj\\",
+        "outputPath": "E:\\Youtube\\c#_beginner_expert\\Csharp-beginner-to-expert\\lesson4\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -39,6 +39,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -60,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.301/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

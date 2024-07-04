@@ -96,9 +96,10 @@ else
 // check if a number prime number
 
 
-int number =20;
-bool isPrime = true;
 
+
+int number = 20;
+bool isPrime = true;
 
 for (int i = 2; i < number; i++)
 {
@@ -107,7 +108,8 @@ for (int i = 2; i < number; i++)
         isPrime = false;
         break;
     }
-    else{
+    else
+    {
         for (int j = 2; j < number; j++)
         {
             if (number % j == 0)
@@ -119,4 +121,5 @@ for (int i = 2; i < number; i++)
     }
 }
 
-Console.WriteLine(isPrime ? "The number is prime" : "The number is not prime");
+
+
